@@ -1,0 +1,12 @@
+
+‚
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø
+M	java:S106"9Replace this use of System.out or System.err by a logger.(î´ùQ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Þí¦Îÿÿÿÿÿ
+J
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷Ž”
+[
+java:S1128	"@Remove this unused import 'java.util.stream.Collectors.joining'.(Æñ¿âþÿÿÿÿ
+U
+java:S1128
+"?Remove this unused import 'java.util.stream.Collectors.toList'.(ã‚ºÎ
