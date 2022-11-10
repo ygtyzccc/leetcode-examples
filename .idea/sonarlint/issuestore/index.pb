@@ -27,3 +27,11 @@ L
 src/numberofislands/App.java,b\c\bcdb70162b0395a15e484e966ebb49d2851e67ce
 L
 src/threesumv2/Solution.java,d\6\d6725f2ba3eb81eb77f930b9464c08bedf3e838b
+J
+src/issubsequence/App.java,a\3\a30571d773493083f696e583edd56c8a1373f384
+O
+src/issubsequence/Solution.java,3\5\3593fc76a941c2f8b7f6a88f9d4bf3fb4a9bf097
+R
+"src/handsofstraights/Solution.java,8\e\8e45442717e9a0418035a76a3e4db606821215eb
+I
+src/plusone/Solution.java,2\e\2edb562492a606c58615edfc4ab04c19f8c4e774
